@@ -25,12 +25,12 @@ return(
             </div>
 
             <div className="flex justify-between items-center">
-              <div className="h-16 w-2 bg-gradient-to-b from-[#888989] to-[#4A4E54] rounded-[8px]">
+              <div className="h-16 w-2 shadow-[2px_2px_10px_rgb(23,23,23)]/80  bg-gradient-to-b from-[#888989] to-[#4A4E54] rounded-[8px]">
 
               </div>
             </div>
           </div>
-          <div className="bg-[#282828] w-[612px] shadow-black shadow-md rounded-2xl h-1"></div>
+          <div className="bg-linear-to-b from-[#282828] to-[#F8F8F8]/15 w-[612px] shadow-black shadow-md rounded h-1"></div>
 
 
 
