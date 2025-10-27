@@ -30,7 +30,8 @@ return(
               </div>
             </div>
           </div>
-          <div className="bg-[#282828] w-[612px] h-1"></div>
+          <div className="bg-[#282828] w-[612px] shadow-black shadow-md rounded-2xl h-1"></div>
+
 
 
 </>
